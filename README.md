@@ -1,16 +1,16 @@
 # Global_Air-NM2023TMID10815
 
 
-DASHBOARD 1 https://public.tableau.com/app/profile/gayathri.b7453/viz/DASHBOARD1_16970083908260/Dashboard5 
+DASHBOARD 1 PUBLIC LINK https://public.tableau.com/views/DASHBOARD1_16970253134800/GLOBALAIRTRANSPORTATIONWITHTABLEAU?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-DASHBOARD 2 https://public.tableau.com/app/profile/gayathri.b7453/viz/DASHBOARD2_16970085173730/GLOBALAIRTRANSPORTATIONNETWORK
+DASHBOARD 2 PUBLIC LINK https://public.tableau.com/views/DASHBOARD2_16970258697550/DASHBOARD2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+ 
+DASHBOARD 3 PUBLIC LINK https://public.tableau.com/views/DASHBOARD3_16970261526430/DASHBOARD3?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-DASHBOARD 3 https://public.tableau.com/app/profile/gayathri.b7453/viz/DASHBOARD3_16970086443380/Dashboard2
+DASHBOARD 4  PUBLIC LINK https://public.tableau.com/views/DASHBOARD4_16970262997110/DASHBOARD4?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-DASHBOARD 4 https://public.tableau.com/app/profile/gayathri.b7453/viz/DASHBOARD4_16970087445800/Dashboard4
-
-
-STORY       https://public.tableau.com/app/profile/gayathri.b7453/viz/DASHBOARD4_16970087445800/Dashboard4
+STORY    PUBLIC LINK https://public.tableau.com/views/STORY_16970266417970/STORY?:language=en-US&:display_count=n&:origin=viz_share_link
